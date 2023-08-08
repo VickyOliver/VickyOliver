@@ -1,7 +1,9 @@
 ### Prazer, Vitória! ♪
 
-👩🏾 15 anos
+👩🏾 15 anos 
+
 📚 3° período do curso técnico em informática
+
 🏫 IFCE Campus de Fortaleza 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Mais informações 💻  </b>
