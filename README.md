@@ -14,7 +14,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estatísticas 📈 </b>
 
-<div align="center">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VickyOliver&show_icons=true&theme=dark) 
 ⠀⠀⠀
