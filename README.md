@@ -20,6 +20,15 @@
 <img align="left" alt="Javascript" height="31" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="left" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
+
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{VickyOliver}/count.svg" /></p> 
+<br>
+</div>
+
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=910101&height=120&section=footer"/>
 
      
