@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=910101&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=JUUTRA33&size=34&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+perfil+👋🏾;Me+chamo+Vitória!+👾;Tenho+15+anos+🤖;Sou+estudante+de+informática+no+ifce+👩🏾‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=JUUTRA33&size=34&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+perfil!+👋🏾;Me+chamo+Vitória+👾;Tenho+15+anos+🤖;Sou+estudante+de+informática+no+ifce+👩🏾‍💻)](https://git.io/typing-svg)
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estatísticas 📈 </b>
