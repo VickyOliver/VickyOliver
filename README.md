@@ -5,6 +5,20 @@
 
 # 
 <p>&nbsp;<img align="center" ("![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<br>
+
+<div align="center">
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VickyOliver&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VickyOliver&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VickyOliver&theme=tokyonight&utcOffset=-3) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VickyOliver&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com?user=VickyOliver&theme=tokyonight_border=true) |
+| :-: | :-: |
+
+</div>
+
+<br>
+
 
       
 <div align="left"> 
